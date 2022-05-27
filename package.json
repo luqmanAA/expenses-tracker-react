@@ -1,8 +1,8 @@
 {
-  "name": "expenses-tracker",
+  "name": "expenses-tracker-react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://luqmanAA.github.io",
+  "homepage": "https://luqmanAA.github.io/expenses-tracker-react",
   "dependencies": {
     "-": "^0.0.1",
     "@testing-library/jest-dom": "^5.11.6",
